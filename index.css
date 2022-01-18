@@ -1,0 +1,60 @@
+.img-nav {
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+}
+
+body{
+    scroll-behavior: none;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-image:url(Banner_Normal.png);
+    background-repeat: no-repeat;
+    overflow-x:unset;
+
+}
+
+.fundadores-container{
+    width: 100%;
+    height: 100%;
+}
+
+.card{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+.marthon{
+    margin-top: 10px;
+}
+.pela{
+    margin-top: 10px;
+}
+
+.texto-container{
+    margin: auto;
+    background: rgba(223, 218, 220, 0.58);
+    font-size: 20px;
+    margin: auto;
+    color: ivory;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    color: black;
+}
+
+span{
+    text-align: center;
+}
+.navbar{
+    justify-content: center;
+}
+.nav-item{
+    margin-left: 20px;
+}
+.nodisplay{
+    display: none;
+}
+.display{
+    display: inline-block;
+}
